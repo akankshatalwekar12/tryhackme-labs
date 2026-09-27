@@ -1,40 +1,35 @@
-# tryhackme-labs
-try hack me cyber security lab reports,notes,commands, and key learnings
-This repository contains my practical cybersecurity learning journey through TryHackMe labs.
+TryHackMe Cybersecurity Labs
 
-I use these labs to strengthen my skills in networking, Linux, SOC operations, blue team security, web security, and offensive security fundamentals.
+This repository contains my hands-on cybersecurity labs, reports, and notes completed on TryHackMe.
 
-Areas Covereedid
+Labs Completed
 
-- 🌐 Networking
-- 🐧 Linux
-- 🛡️ SOC / Blue Team
-- 🔎 Security Monitoring & Detection
-- 🌐 Web Security
-- ⚔️ Offensive Security Fundamentals
+SOC & Log Analysis
 
-TryHackMe Reports
+- "Log Operations" (./Log-Operations/)
+- "SOC L1 Alert Triage" (./SOC-L1-Alert-Triage/)
 
-Room| Area| Report
-SOC Role in Blue Team| SOC / Blue Team| "View Report" (soc/soc-role-in-blue-team/README.md)
+Security Tools
 
-What I Focus On
+- "CyberChef" (./CyberChef/)
 
-Through these labs, I practice:
+Digital Forensics
 
-- Understanding network and security concepts
-- Analyzing security events and alerts
-- Learning SOC Analyst workflows
-- Understanding defensive security techniques
-- Using security tools and commands
-- Documenting practical findings
+- "Windows Forensics 1" (./Windows-Forensics-1/)
+
+Phishing Analysis
+
+- "Phishing Email in Action" (./Phishing-Email-in-Action/)
+
+Skills Practiced
+
+- Log analysis
+- SOC alert triage
+- Phishing analysis
+- Windows forensics
+- Data analysis and encoding
+- Cybersecurity investigation
 
 Goal
 
-My goal is to build strong practical skills for a SOC Analyst / Blue Team career by combining hands-on labs, security projects, and continuous learning.
-
-Platform
-
-TryHackMe
-
-This repository contains my personal learning notes and practical lab documentation.
+Building practical cybersecurity and Blue Team skills through hands-on labs and security investigations.
